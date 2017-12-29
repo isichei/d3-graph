@@ -1,6 +1,8 @@
 # d3-graph
 Messing around with force directed graph in d3 (v4).
 
+Working example: https://isichei.github.io/d3-graph/index.html
+
 Currently this example can do the following:
 - Highlight first order links to node on hover (can also hide all non-highlighted nodes)
 - Stop/start force layout (i.e. freezing and unfreezing nodes)
